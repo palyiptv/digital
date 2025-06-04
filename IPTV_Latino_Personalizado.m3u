@@ -1,0 +1,75 @@
+#EXTM3U
+
+#--- Canales de TV Argentina ---#
+#EXTINF:-1 tvg-id="TVPublica.ar" group-title="Argentina",TV Pública
+https://streaming.casadelbicentenario.gob.ar/live/tvpublica/playlist.m3u8
+#EXTINF:-1 tvg-id="C5N.ar" group-title="Argentina",C5N
+https://stream.mediastre.am/c5n/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal9.ar" group-title="Argentina",Canal 9
+https://stream.live.canal9.com.ar/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericaTV.ar" group-title="Argentina",América TV
+https://streaming.americatv.com.ar/live/america/playlist.m3u8
+#EXTINF:-1 tvg-id="SomosAmba.ar" group-title="Argentina",Somos AMBA
+https://video2.cimacast.com:3185/live/amba/playlist.m3u8
+#EXTINF:-1 tvg-id="ElDestapeWeb.ar" group-title="Argentina",El Destape Web
+https://stream.elDestapeweb.com/live.m3u8
+#EXTINF:-1 tvg-id="Canal22.ar" group-title="Argentina",Canal 22 Web
+https://canal22web.com/envivo/stream.m3u8
+
+#--- Canales Deportivos ---#
+#EXTINF:-1 tvg-id="TyCSports.ar" group-title="Deportes",TyC Sports
+https://livetyc-restream.tycsports.com/tycsports.m3u8
+#EXTINF:-1 tvg-id="DSports.ar" group-title="Deportes",DSports (alternativa)
+https://streaming.dtvla.com/stream/720p.m3u8
+#EXTINF:-1 tvg-id="TigoSports.py" group-title="Deportes",Tigo Sports Paraguay
+https://vs.tigocloud.net/Paraguay/CH001.m3u8
+#EXTINF:-1 tvg-id="ESPN2.mx" group-title="Deportes",ESPN 2 (México)
+https://free.spidervideo.net/espn2/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.ar" group-title="Deportes",Fox Sports 1 Latam
+https://foxsports-latam.stream.ar/live/fox1.m3u8
+#EXTINF:-1 tvg-id="GOLTV.uy" group-title="Deportes",GOL TV Uruguay
+https://goltv-uy.s3.amazonaws.com/live/goltv.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" group-title="Deportes",DeporTV
+https://stream.deportv.gob.ar/live/smil:deportv.smil/playlist.m3u8
+
+#--- Radios Argentinas en vivo ---#
+#EXTINF:-1 tvg-id="RadioMitre.ar" group-title="Radios",Radio Mitre
+https://radiocdn.mitre.cienradios.com.ar/mitre.aac/playlist.m3u8
+#EXTINF:-1 tvg-id="La100.ar" group-title="Radios",La 100
+https://streaming.cienradios.com.ar/la100.aac
+#EXTINF:-1 tvg-id="Radio10.ar" group-title="Radios",Radio 10
+https://arcast.com.ar:443/radio10/radio10/playlist.m3u8
+#EXTINF:-1 tvg-id="Blue1007.ar" group-title="Radios",Blue 100.7
+https://streaming.radioblue.com.ar:8010/live
+#EXTINF:-1 tvg-id="Vorterix.ar" group-title="Radios",Vorterix
+https://radio.vorterix.com:8443/live.aac
+#EXTINF:-1 tvg-id="Aspen1023.ar" group-title="Radios",Aspen 102.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN1023AAC.aac
+#EXTINF:-1 tvg-id="FMTango.ar" group-title="Radios",FM Tango
+https://radio30.virtualtronics.com:20066/stream
+#EXTINF:-1 tvg-id="Nacional870.ar" group-title="Radios",Radio Nacional AM 870
+https://s3.mexiserver.com:7016/stream
+
+#--- Películas y Series 24/7 ---#
+#EXTINF:-1 tvg-id="Cine24.ar" group-title="Películas",Cine 24/7
+https://streaming.cine24.com.ar/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SeriesMaraton.ar" group-title="Series",Series Maratón
+https://seriesmaraton.com/live/stream.m3u8
+
+#--- Canales Internacionales ---#
+#EXTINF:-1 tvg-id="TrecePY.py" group-title="Paraguay",Trece Paraguay
+https://trecepy.com/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TelefuturoPY.py" group-title="Paraguay",Telefuturo Paraguay
+https://telefuturo.com.py/live/stream.m3u8
+#EXTINF:-1 tvg-id="Canal10UY.uy" group-title="Uruguay",Canal 10 Uruguay
+https://canal10.uy/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TeledoceUY.uy" group-title="Uruguay",Teledoce Uruguay
+https://teledoce.com.uy/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ImagenTV.mx" group-title="México",Imagen TV México
+https://imagentv.com.mx/live/stream.m3u8
+#EXTINF:-1 tvg-id="CanalOnce.mx" group-title="México",Canal Once México
+https://canaloncemexico.com/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVE.es" group-title="España",RTVE España
+https://rtve.es/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Antena3.es" group-title="España",Antena 3 España
+https://antena3.com/live/playlist.m3u8
